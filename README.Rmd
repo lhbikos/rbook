@@ -11,6 +11,7 @@ knitr::opts_chunk$set(
 )
 ```
 
+This is a test
 # Learning statistics with R
 
 This repository contains all the source materials for *Learning Statistics with R*. There are two versions of the content, the `original` version (LSR v0.6) written in LaTeX and the `bookdown` adaptation (LSR v0.6.1). The two versions are kept in distinct folders to ensure they share no dependencies.
